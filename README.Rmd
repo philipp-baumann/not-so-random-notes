@@ -1,0 +1,11 @@
+---
+title: "Linguistic excursions"
+author: "Philipp Baumann"
+date: "12/1/2019"
+output: pdf_document
+---
+
+# Arts
+
+The current inspiration stream is provided by collections of images and soughts of Lilian F. Schwartz and Ken Knowlton. If find experimentation with machines in the 60ies quite interesting.
+
